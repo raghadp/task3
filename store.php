@@ -9,7 +9,7 @@
        $dbHost = 'localhost';
        $dbUsername = 'root';
        $dbPassword = '';
-       $dbName = 'fiverr_raghadpink2';
+       $dbName = 'raghhad';
 
        $conn = new mysqli($dbHost, $dbUsername, $dbPassword, $dbName);
     
